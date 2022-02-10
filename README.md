@@ -15,7 +15,6 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/KraXen72/slovak_kyria)
     </td>
     <td>
-      <br>
 ![KraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KraXen72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true)
     </td>
   </tr>
