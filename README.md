@@ -3,14 +3,15 @@
   <tr>
     <td>
 
-***i code:***
+**I’m currently working on:**
 - 🎨 custom themes and styles in **SCSS** & **CSS**
 - 👨‍💻 websites, electron and nodejs in **JavaScript**
 - 🛠 utility scripts & small projects in **Python** and **AutoHotkey**
   
-***i'm learning:***  
+**I’m currently learning:**  
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/KraXen72/slovak_kyria)
     </td>
     <td>
