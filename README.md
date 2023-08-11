@@ -21,7 +21,7 @@
 [![ruff](https://img.shields.io/badge/ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=333333)](https://github.com/astral-sh/ruff)  
     </td>
     <td>
-![KraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KraXen72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true&card_width=400)
+![KraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KraXen72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true&card_width=375)
     </td>
   </tr>
 </table>
