@@ -6,7 +6,7 @@
 **I build**
 - 🎨 Custom themes and UserStyles in **SCSS** & **CSS**
 - 👨‍💻 Websites & Electron apps in **TypeScript** and **JavaScript**
-- 🛠 Utility scripts & CLI programs in **Python** and **AutoHotkey**
+- 🛠 Utility scripts & CLI in **Python** and **AutoHotkey**
   
 **Frameworks & tools I enjoy**  
 ![svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
