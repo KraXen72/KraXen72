@@ -9,7 +9,7 @@
 - 🛠 Utility scripts & CLI in **Python** and **AutoHotkey**
 
 **I want to learn:**  
-[![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffd12e)](https://kotlinlang.org)
+[![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffd12e)](https://kotlinlang.org)
 [![jetpack-compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org)
 [![rust](https://img.shields.io/badge/rust-f78735?style=for-the-badge&logo=rust)](https://www.rust-lang.org)  
@@ -21,7 +21,7 @@
 [![ruff](https://img.shields.io/badge/ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=333333)](https://github.com/astral-sh/ruff)  
     </td>
     <td>
-![KraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KraXen72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true)
+![KraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KraXen72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true&card_width=400)
     </td>
   </tr>
 </table>
