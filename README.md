@@ -29,15 +29,39 @@
 I'm kraxen, a full-stack developer with an eye for design.  
 Here's the stuff I use or have worked with in the past:  
 
-<!--**stuff i've worked with:**  
-**languages:** typescript, javascript, python  
-**frontend**: svelte, sveltekit, solidjs, react, react native  
-**design:** figma, tailwindcss, unocss, scss, css3  
-**backend/cli:** nodejs, deno, express  
-**desktop:** electron, autohotkey  
-**tools:** vite, esbuild, pnpm, ruff, rollup-->
+<table>
+	<tr>
+		<td>
+			<pre><code>
+languages:		typescript, javascript, python  
+frontend:		svelte, sveltekit, solidjs, react, react native  
+design: 		figma, tailwindcss, unocss, scss, css3  
+backend/cli:	nodejs, deno, express  
+desktop:		electron, autohotkey  
+tools:			vite, esbuild, pnpm, ruff, rollup
+			</code></pre>
+		</td>
+		<td>
+<img alt="KraXen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KraXen72&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=true&card_width=320&hide_rank=true&rank_icon=github" />
+ 		</td>
+	</tr>
+</table>
+  
+If you like what I do, feel free to support me below. Thanks!  
+  
+[![Recurring donation via Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/KraXen72)
+[![One-time donation via ko-fi.com](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kraxen72)
 
-**languages:**  
+<!--```
+languages:		typescript, javascript, python  
+frontend:		svelte, sveltekit, solidjs, react, react native  
+design: 		figma, tailwindcss, unocss, scss, css3  
+backend/cli:	nodejs, deno, express  
+desktop:		electron, autohotkey  
+tools:			vite, esbuild, pnpm, ruff, rollup
+```-->
+
+<!--**languages:**  
 ![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
@@ -72,9 +96,6 @@ i want to learn:
 [![jetpack-compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org)
 [![rust](https://img.shields.io/badge/rust-f78735?style=for-the-badge&logo=rust)](https://www.rust-lang.org)  
-
-If you like what I do, feel free to support me below. Thanks!  
-[![Recurring donation via Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/KraXen72)
-[![One-time donation via ko-fi.com](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kraxen72)
+-->
 
 <!-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/KraXen72/slovak_kyria) -->
