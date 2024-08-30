@@ -54,7 +54,7 @@ If you like what I do, feel free to support me below. Thanks!
 
 <!--```
 languages:		typescript, javascript, python  
-frontend:		svelte, sveltekit, solidjs, react, react native  
+frontend:		svelte(& kit), solidjs, react, react native, vue
 design: 		figma, tailwindcss, unocss, scss, css3  
 backend/cli:	nodejs, deno, express  
 desktop:		electron, autohotkey  
