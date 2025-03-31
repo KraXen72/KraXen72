@@ -33,7 +33,7 @@ Here's the stuff I use or have worked with in the past:
 	<tr>
 		<td>
 			<pre><code>
-languages:		typescript, javascript, python  
+languages:		typescript, javascript, python, java    
 frontend:		svelte+kit, solidjs, react, react native, vue
 design: 		figma, tailwindcss, unocss, scss, css3  
 backend/cli:	nodejs, deno, express  
