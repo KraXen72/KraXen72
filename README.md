@@ -27,8 +27,8 @@
 </table>-->
 
 I'm kraxen, a full-stack developer with an eye for design.  
+<!--
 Here's the stuff I use or have worked with in the past:  
-
 <table>
 	<tr>
 		<td>
@@ -46,6 +46,7 @@ tools:			vite, esbuild, pnpm, ruff, rollup
  		</td>
 	</tr>
 </table>
+-->
   
 If you like what I do, feel free to support me below. Thanks!  
   
